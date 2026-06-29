@@ -4,7 +4,7 @@
 A premium, tactile-brutalism inspired To-Do List Manager. Designed with strict attention to typography, sharp geometry, and a calm dark-mode aesthetic. Tasks are persisted securely in the browser's `localStorage`, ensuring data is saved across sessions.
 
 ## Live Demo
-[Live Demo Link](#) *(Replace with actual GitHub Pages or Netlify link once deployed)*
+[Live Demo Link](https://ayushkumar563.github.io/todo-list-manager/)
 
 ## Tech Stack
 - **HTML5** (Semantic structure)
