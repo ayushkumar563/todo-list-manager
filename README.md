@@ -6,6 +6,8 @@ A premium, tactile-brutalism inspired To-Do List Manager. Designed with strict a
 ## Live Demo
 [Live Demo Link](https://ayushkumar563.github.io/todo-list-manager/)
 
+![App Screenshot](screenshot.png)
+
 ## Tech Stack
 - **HTML5** (Semantic structure)
 - **CSS3** (Tactile Brutalism, sharp 1px borders, CSS Variables, Flexbox)
